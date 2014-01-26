@@ -1,0 +1,31 @@
+{
+  "name": "backbone-loading",
+  "description": "Loading indicator for Backbone network requests",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sebastiaan Deckers",
+    "email": "seb@ninja.sg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cofounders/backbone-loading.git"
+  },
+  "licenses": [{
+    "type": "MIT"
+  }],
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt": "0.4.1",
+    "grunt-cli": "~0.1",
+    "grunt-contrib-jshint": "0.8.0",
+    "grunt-contrib-nodeunit": "0.2.2",
+    "load-grunt-config": "0.7.0",
+    "requirejs": "*",
+    "backbone": "*"
+  },
+  "devDependencies": {
+  },
+  "keywords": ["url"]
+}

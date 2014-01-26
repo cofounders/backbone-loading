@@ -1,0 +1,29 @@
+{
+  "name": "backbone-loading",
+  "main": "backbone-loading.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cofounders/backbone-loading",
+  "authors": [
+    "Sebastiaan Deckers <seb@ninja.sg>"
+  ],
+  "description": "Loading indicator for Backbone network requests",
+  "keywords": [
+    "backbone",
+    "loader",
+    "loading",
+    "ajax",
+    "spinner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "/*.json",
+    "/*.md",
+    "/*.txt",
+    "Gruntfile.js",
+    "node_modules",
+    "bower_components",
+    "grunt",
+    "tests"
+  ]
+}
