@@ -4,7 +4,7 @@ Loading indicator for Backbone network requests
 
 ## Usage
 
-Include `backbone-loading.js` to add the CSS class `backbone-loading` to the `<html/>` element in the DOM whenever a Backbone AJAX request is pending. Use this class to show an Ajax spinner in your app.
+Include `backbone-loading.js` to add the CSS class `backbone-loading` to the `<html/>` element in the DOM whenever a Backbone AJAX request is pending. Use this class to show an Ajax spinner in your app. Styling the spinner is not what this library does, only the Backbone integration.
 
 The CSS class is cleared once the request has completed. If multiple Backbone network requests happen in parallel, the CSS class will only be removed once all requests have completed.
 
