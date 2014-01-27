@@ -3,6 +3,7 @@ module.exports = function (grunt) {
     code: {
       options: grunt.util._.merge({
         node: true,
+        browser: true,
         globals: {
           require: true,
           define: true

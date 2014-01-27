@@ -1,7 +1,7 @@
 {
   "name": "backbone-loading",
   "description": "Loading indicator for Backbone network requests",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Sebastiaan Deckers",
     "email": "seb@ninja.sg"
